@@ -5,4 +5,4 @@
    This will have all the code usage of the matplotlib charts etc. which can be used to do an Exploratory DataAnalysis for DataScience
 
 ### Pandas
-    This will give an insight into the Pandas library and its usage in DataAnalysis required for DataScience
+   This will give an insight into the Pandas library and its usage in DataAnalysis required for DataScience
